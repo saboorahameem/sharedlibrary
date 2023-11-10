@@ -1,4 +1,4 @@
 def call ()
 {
-  sh 'This is an example for shared library'
+  echo 'This is an example for shared library'
 }
